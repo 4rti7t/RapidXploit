@@ -3,6 +3,7 @@
 **ReconRapid** ek advanced aur automated hacking tool hai jo **penetration testing**, **vulnerability exploitation**, aur **post-exploitation** ko streamline karta hai. Yeh tool **reconnaissance**, **exploit**, aur **post-exploitation** phases ko automatically handle karta hai, jisse aapko security assessments tezi se aur efficiently complete karne mein madad milti hai. 🔥
 
 ## ✨ **Features**:
+
 - **🔍 Reconnaissance:** Automated Nmap scanning aur service detection.
 - **⚡ Exploitation:** SMB vulnerabilities (EternalBlue) exploitation.
 - **💥 Post-Exploitation:** Meterpreter sessions, hash dumping, aur persistence setup.
